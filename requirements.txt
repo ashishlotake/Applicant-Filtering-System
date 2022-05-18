@@ -31,7 +31,7 @@ ipykernel==6.13.0
 ipython==7.33.0
 ipython-genutils==0.2.0
 ipywidgets==7.7.0
-jedi==0.18.1
+jedi
 Jinja2==3.1.2
 jsonschema
 jupyter-client==7.3.1
