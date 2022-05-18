@@ -92,6 +92,7 @@ def parse_content(text, in_skills):
 
 in_skills = st.text_input("Accepted skills from the applicants", placeholder= "Leadership,SQL,Pyhton,Adobe,CAD,Creo,etc")
 st.caption("Enter values separated by commas and please check before uploading resume.")
+in_skills = in_skills.lower()
 in_skills = re.sub(" +", "", in_skills)
 in_skills= in_skills.replace(",","|")
 st.write(in_skills)
