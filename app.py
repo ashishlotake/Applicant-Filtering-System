@@ -135,6 +135,8 @@ if pdf_files:
     for i in range(len(final_df)-1):
         if len(final_df.iloc[i]["skills"]) == 0:
             final_df.drop(labels=i, axis=0, inplace=True)
+        else:
+            pass
 
     st.dataframe(final_df)
 
