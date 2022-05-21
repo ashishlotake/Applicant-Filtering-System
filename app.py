@@ -13,7 +13,7 @@ import re
 nlp = spacy.load("en_core_web_sm")
 
 st.markdown("""
-    ## :office: Applicant Filtering System
+    ## :office: Resume Filtering System
     [![website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fashishlotake.pages.dev%2F)](https://ashishlotake.pages.dev/)
     [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fayoub-nainia%2F%3Flocale%3Den_US)](https://www.linkedin.com/in/ashish-lotake/?locale=en_US)
     [![GitHub](https://img.shields.io/twitter/url?label=Github&logo=GitHub&style=social&url=https%3A%2F%2Fgithub.com%2Fnainiayoub)](https://github.com/ashishlotake)
