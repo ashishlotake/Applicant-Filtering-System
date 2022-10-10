@@ -1,4 +1,4 @@
-[![website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fashishlotake.pages.dev%2F)](https://ashishlotake.com/)
+[![website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fashishlotake.com%2F)](https://ashishlotake.com/)
 # Resume Filtering System
 This application gives you the list of applicant, who have the skills which are defined/required by you/your company
 
